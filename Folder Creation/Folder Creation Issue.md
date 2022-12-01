@@ -1,4 +1,4 @@
-<------ Description------>
+The Issue >
 
 When you are trying to create New Folder, but you can only create "Compressed (zipped) Folder"
 
@@ -6,10 +6,11 @@ Or even "Create new folder option disappeared on Windows 11"
 
 We can help and there's always solution for them..
 
-<------ Description------>
+--- >
 
 
-<------ Solution ------>
+< The Solution >
+
 
 1. Back-up windows files before doing this.
 2. Open run command, you can either get this right clicking start menu or holding window key +r 
@@ -20,4 +21,4 @@ We can help and there's always solution for them..
 7. Exit the registry editor, Restart your pc.
 
 
-<------ Solution ------>
+< --- >
